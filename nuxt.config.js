@@ -1,6 +1,7 @@
 export default {
   // Auto-load components/
   components: true,
+  target: 'static',
   /*
    ** Nuxt.js modules
    */
