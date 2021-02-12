@@ -1,0 +1,18 @@
+{
+  "name": "use-nuxt-fetch-hook-on-api",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "3.2.0",
+    "nuxt": "2.14.7"
+  },
+  "keywords": []
+}
