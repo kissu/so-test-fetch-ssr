@@ -1,7 +1,7 @@
 <template>
   <div>
     <p>xxxxxxxxxxx ParentWithSlots' content before slot xxxxxxxxxxx</p>
-    <slot></slot>
+    <slot>Default content in case none is provided</slot>
     <p>xxxxxxxxxxx ParentWithSlots' content after slot xxxxxxxxxxx</p>
   </div>
 </template>
